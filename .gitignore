@@ -5,6 +5,10 @@ Thumbs.db
 
 *.log
 log.txt
+*.jpg
+*.png
+*.bmp
+images
 
 www/upload/*
 www/bitrix/stack_cache/
@@ -24,3 +28,5 @@ www/bitrix/site_checker*.log
 www/bitrix/spread.php
 www/log
 www/bitrix/html_pages/
+Будет удалено www/local/
+Будет удалено www/test.php
